@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
-'''Description: This program will output "hello world" to the screen.'''
+'''
+Description: This program will output "hello world" to the screen.
+'''
 
 # Any line that starts with a "#" is also known as a comment,
 # these lines are ignored by the python interpreter even if
